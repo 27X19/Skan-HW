@@ -52,3 +52,4 @@ npm install
 # 4. Запустить
 npm start
 # -
+# Skan-HW
