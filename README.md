@@ -41,10 +41,10 @@
 
 ```bash
 # 1. Клонировать репозиторий
-git clone https://github.com/username/project-name.git
+git clone https://github.com/27X19/Skan-HW/
 
 # 2. Перейти в папку проекта
-cd project-name
+cd Skan-HW-main
 
 # 3. Установить зависимости
 npm install
